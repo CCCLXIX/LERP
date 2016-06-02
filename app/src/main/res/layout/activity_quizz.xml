@@ -1,0 +1,164 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:id="@+id/QuizzLayout"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="simple.lerp.QuizzActivity"
+    android:background="@drawable/background_plain_2">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:id="@+id/scrollView4"
+        android:layout_marginTop="140dp" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/qz1_q1"
+                android:id="@+id/question"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="38dp"
+                android:layout_marginTop="0dp"
+                android:textSize="17dp"
+                android:layout_marginRight="0dp"
+                android:textColor="#ffffffff"
+                android:autoText="false" />
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="280dp"
+        android:id="@+id/scrollView5"
+        android:layout_marginTop="350dp" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/qz1_a1"
+                android:id="@+id/qz1_a1"
+                android:layout_marginTop="0dp"
+                android:textColor="#ffffffff"
+
+                android:textSize="16dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/qz1_a2"
+                android:id="@+id/qz1_a2"
+                android:layout_marginTop="40dp"
+                android:textColor="#ffffffff"
+                android:textSize="16dp"
+
+                android:layout_marginRight="0dp"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/qz1_a3"
+                android:id="@+id/qz1_a3"
+                android:layout_marginTop="40dp"
+                android:textColor="#ffffffff"
+                android:textSize="16dp"
+
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/qz1_a4"
+                android:id="@+id/qz1_a4"
+                android:textColor="#ffffffff"
+                android:textSize="16dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Submit"
+        android:id="@+id/submit_answer"
+        android:onClick="Submit"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="228dp" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/results"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffffff" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:id="@+id/home"
+        android:onClick="GoHome"
+        android:layout_alignBottom="@+id/submit_answer"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/answer"
+        android:hint="Response"
+        android:background="#ffffffff"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="228dp" />
+
+
+
+    //Answer Key for Quiz #3---
+    public static final int QQQ1A = 3;+
+    public static final int QQQ2A = 2;+
+    public static final int QQQ3A = 1;+
+    public static final int QQQ4A = 4;+
+    public static final int QQQ5A = 1;+
+    public static final int QQQ6A = 3;+
+    public static final int QQQ7A = 4;+
+    public static final int QQQ8A = 2;+
+    public static final int QQQ9A = 3;+
+    public static final int QQQ10A = 4;
+
+
+
+
+</RelativeLayout>

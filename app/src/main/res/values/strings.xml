@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Living Environment Regents Prep</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_main__menu">Main_Menu</string>
+    <string name="title_activity_nysresources">NYSResources</string>
+    <string name="title_activity_manage_account">ManageAccount</string>
+    <string name="title_activity_firt_time_welcome">FirtTimeWelcome</string>
+    <string name="nys_alert">**In order to access the New York State Living Environment Regents databases, you must have a PDF reader installed &amp; internet access in your mobile device.</string>
+    <string name="title_activity_quizzes">Quizzes</string>
+    <string name="title_activity_quizz">QuizzActivity</string>
+    ----------------------------------------------START QUIZ ONE-----------------------------------------------------------
+    Jan 2015 Regents
+    QUIZ #1:  Q1;#1 | Q2;#4 | Q3;#7 | Q4;#19 | Q5;#18 | Q6;#25 | Q7;#27 | Q8;#33 | Q9;#35 | Q10;#13 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        <string name="qz1_q1">1) Which observation could lead to the conclusion that an object is nonliving? </string>
+    <string name="qz1_a1">(1) It passes on hereditary information only through asexual reproduction.</string>
+    <string name="qz1_a2">(2) It carries out synthesis.</string>
+    <string name="qz1_a3">(3) It cannot perform metabolic processes.</string>
+    <string name="qz1_a4">(4) It is composed of a cell, but does not have tissues.</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        <string name="qz1_q2">2) Which sequence best represents increasing complexity? </string>
+    <string name="qz1_q2_a1">(1) tissues → cells → organelles → organs</string>
+    <string name="qz1_q2_a2">(2)  cells → organelles → organs → organism</string>
+    <string name="qz1_q2_a3">(3) organelles → cells → tissues → organs</string>
+    <string name="qz1_q2_a4">(4) organism → cells → tissues → organelles</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        <string name="qz1_q3">3) The cytoplasm in a single-celled organism and the circulatory system in a human both </string>
+    <string name="qz1_q3_a1">(1) break down molecules into smaller components</string>
+    <string name="qz1_q3_a2">(2) release energy to be used by the organism</string>
+    <string name="qz1_q3_a3">(3) transport substances throughout the organism</string>
+    <string name="qz1_q3_a4">(4) distribute blood to all of the parts of the organism</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        <string name="qz1_q4">4) The reproductive cycle in females is regulated primarily by </string>
+    <string name="qz1_q4_a1">(1) estrogen and testosterone</string>
+    <string name="qz1_q4_a2">(2) estrogen and progesterone</string>
+    <string name="qz1_q4_a3">(3) progesterone and insulin</string>
+    <string name="qz1_q4_a4">(4) progesterone and testosterone</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------        <string name="qz1_q5">5) Photosynthesis and respiration are alike in that they both </string>
+    <string name="qz1_q5_a1">(1) require the Sun as a direct source of energy</string>
+    <string name="qz1_q5_a2">(2) result in the production of glucose molecules</string>
+    <string name="qz1_q5_a3">(3) require specific catalysts</string>
+    <string name="qz1_q5_a4">(4) occur within mitochondria</string>
+    ----------------------------------------------Question 6---------------------------------------------------------------        <string name="qz1_q6">6) Nicotine is only one of the many toxic chemicals inhaled while smoking. What effect can such toxic chemicals have on the body? </string>
+    <string name="qz1_q6_a1">(1) They stimulate an increase in height.</string>
+    <string name="qz1_q6_a2">(2) They stimulate uncontrolled cell division.</string>
+    <string name="qz1_q6_a3">(3) They eliminate carbon dioxide from cells.</string>
+    <string name="qz1_q6_a4">(4) They eliminate chromosomes from many cells.</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        <string name="qz1_q7">7) Which process uses energy to combine inorganic molecules to synthesize organic molecules? </string>
+    <string name="qz1_q7_a1">(1) respiration</string>
+    <string name="qz1_q7_a2">(2) digestion</string>
+    <string name="qz1_q7_a3">(3) photosynthesis</string>
+    <string name="qz1_q7_a4">(4) decomposition</string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        <string name="qz1_q8">8) The inability of an organism to produce certain proteins can occur when an organism is lacking an enzyme needed to combine </string>
+    <string name="qz1_q8_a1">(1) oxygen molecules</string>
+    <string name="qz1_q8_a2">(2) simple sugars</string>
+    <string name="qz1_q8_a3">(3) amino acids</string>
+    <string name="qz1_q8_a4">(4) biological catalysts</string>
+    ----------------------------------------------Question 9---------------------------------------------------------------        <string name="qz1_q9">9) A cell begins to produce a new type of protein. This is most likely due to an alteration of the </string>
+    <string name="qz1_q9_a1">(1) structure of the cell membrane</string>
+    <string name="qz1_q9_a2">(2)  sequence of bases in a section of a chromosome</string>
+    <string name="qz1_q9_a3">(3) chemical makeup of the cytoplasm</string>
+    <string name="qz1_q9_a4">(4)  shape of the antibodies produced by the nucleus</string>
+    ----------------------------------------------Question 10---------------------------------------------------------------        <string name="qz1_q10">10)  Information in segments of human DNA can be expressed by a bacterial cell as a result of </string>
+    <string name="qz1_q10_a1">(1) sexual reproduction</string>
+    <string name="qz1_q10_a2">(2) random mutation</string>
+    <string name="qz1_q10_a3">(3) genetic variability</string>
+    <string name="qz1_q10_a4">(4) genetic engineering</string>
+    ----------------------------------------------END QUIZ ONE-------------------------------------------------------------
+
+    ----------------------------------------------START QUIZ TWO-----------------------------------------------------------
+    June 2013 Regents
+    QUIZ #1:  Q1;#2 | Q2;#11 | Q3;#9 | Q4;#13 | Q5;#8 | Q6;#14 | Q7;#16 | Q8;#18 | Q9;#15 | Q10;#25 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        <string name="qz2_q1">1) In New York State, small farms that were abandoned many years ago have become hardwood forests. This is an example of </string>
+    <string name="qz2_a1">(1) local deforestation</string>
+    <string name="qz2_a2">(2) biotechnology</string>
+    <string name="qz2_a3">(3) ecological succession</string>
+    <string name="qz2_a4">(4) habitat loss</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        <string name="qz2_q2">2) In a multicellular organism, organs carry out a variety of life functions. In a single-celled organism, these functions are performed by </string>
+    <string name="qz2_q2_a1">(1) tissues </string>
+    <string name="qz2_q2_a2">(2) organelles </string>
+    <string name="qz2_q2_a3">(3) organ systems</string>
+    <string name="qz2_q2_a4">(4) organs</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        <string name="qz2_q3">3) Before starch can enter a cell, it must be </string>
+    <string name="qz2_q3_a1">(1) absorbed by simple sugars</string>
+    <string name="qz2_q3_a2">(2) diffused into simple sugars</string>
+    <string name="qz2_q3_a3">(3) digested to form simple sugars</string>
+    <string name="qz2_q3_a4">(4) actively transported by simple sugars</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        <string name="qz2_q4">4) In order for the human body to maintain homeostasis, the breakdown of glucose to release energy must be followed by the </string>
+    <string name="qz2_q4_a1">(1) production of oxygen</string>
+    <string name="qz2_q4_a2">(2) division of the cell</string>
+    <string name="qz2_q4_a3">(3) removal of wastes</string>
+    <string name="qz2_q4_a4">(4) production of receptor molecules</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------        <string name="qz2_q5">5) The processes of deletion, insertion, and substitution can alter genes in a skin cell. The altered genes will most likely be passed on to </string>
+    <string name="qz2_q5_a1">(1) sperm cells</string>
+    <string name="qz2_q5_a2">(2) egg cells</string>
+    <string name="qz2_q5_a3">(3) every cell that develops from that skin cell</string>
+    <string name="qz2_q5_a4">(4) only a few of the cells that develop from that skin cell</string>
+    ----------------------------------------------Question 6---------------------------------------------------------------        <string name="qz2_q6">6)  In the past, humans developed varieties of dogs, such as the German shepherd and the bearded collie, using </string>
+    <string name="qz2_q6_a1">(1) selective breeding for particular traits.</string>
+    <string name="qz2_q6_a2">(2) recombination of genes during mitosis.</string>
+    <string name="qz2_q6_a3">(3) mutations present only in body cells.</string>
+    <string name="qz2_q6_a4">(4) natural selection of favorable traits.</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        <string name="qz2_q7">7) Which sequence best represents sexual reproduction? </string>
+    <string name="qz2_q7_a1">(1) mitosis → gametes → zygote → fertilization</string>
+    <string name="qz2_q7_a2">(2) gametes → meiosis → mitosis → fertilization</string>
+    <string name="qz2_q7_a3">(3) fertilization → gametes → meiosis → zygote</string>
+    <string name="qz2_q7_a4">(4) meiosis → gametes → fertilization → zygote</string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        <string name="qz2_q8">8) The energy used to obtain, transfer, and transport materials within an organism comes directly from </string>
+    <string name="qz2_q8_a1">(1) ATP </string>
+    <string name="qz2_q8_a2">(2) DNA </string>
+    <string name="qz2_q8_a3">(3) sunlight </string>
+    <string name="qz2_q8_a4">(4) starch </string>
+    ----------------------------------------------Question 9---------------------------------------------------------------        <string name="qz2_q9">9) In an organism, a muscle cell has the same DNA as a nerve cell, yet the cells perform different functions. This is possible because </string>
+    <string name="qz2_q9_a1">(1) different mutations occur in each cell type, changing the genetic instructions</string>
+    <string name="qz2_q9_a2">(2) temperature variations within the body alter DNA</string>
+    <string name="qz2_q9_a3">(3) proteins in each cell type change the structure of DNA</string>
+    <string name="qz2_q9_a4">(4) different parts of the genetic instructions are used in each type of cell</string>
+    ----------------------------------------------Question 10---------------------------------------------------------------        <string name="qz2_q10">10)  Which type of organism helps to reduce atmospheric carbon dioxide? </string>
+    <string name="qz2_q10_a1">(1) carnivores </string>
+    <string name="qz2_q10_a2">(2) producers </string>
+    <string name="qz2_q10_a3">(3) decomposers </string>
+    <string name="qz2_q10_a4">(4) herbivores</string>
+    ----------------------------------------------END QUIZ TWO-------------------------------------------------------------
+
+    ----------------------------------------------START QUIZ THREE---------------------------------------------------------
+    June 2014 Regents
+    QUIZ #1:  Q1;#1 | Q2;#7 | Q3;#16 | Q4;#4 | Q5;#18 | Q6;#15 | Q7;#27 | Q8;#12 | Q9;#26 | Q10;#21 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        <string name="qz3_q1">1) How do cells in the ovary detect a hormone from the brain? </string>
+    <string name="qz3_a1">(1) The brain sends a nerve impulse to the ovary.</string>
+    <string name="qz3_a2">(2) White blood cells bring the hormone to the ovary.</string>
+    <string name="qz3_a3">(3) Receptor molecules on the cells of the ovary bind with the hormone.</string>
+    <string name="qz3_a4">(4) Vacuoles within the ovary bind with the hormone.</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        <string name="qz3_q2">2) Autotrophs might survive when heterotrophs cannot, because autotrophs are able to </string>
+    <string name="qz3_q2_a1">(1) reproduce asexually </string>
+    <string name="qz3_q2_a2">(2) become dormant </string>
+    <string name="qz3_q2_a3">(3) exist without respiration</string>
+    <string name="qz3_q2_a4">(4) make their own food</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        <string name="qz3_q3">3) During the process of cellular respiration, energy is released from </string>
+    <string name="qz3_q3_a1">(1) carbon dioxide</string>
+    <string name="qz3_q3_a2">(2) oxygen atoms</string>
+    <string name="qz3_q3_a3">(3) water molecules</string>
+    <string name="qz3_q3_a4">(4) chemical bonds</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        <string name="qz3_q4">4) In order to enter cells and be useful to the body, starch must be </string>
+    <string name="qz3_q4_a1">(1) absorbed through the skin</string>
+    <string name="qz3_q4_a2">(2) broken down into fats and water</string>
+    <string name="qz3_q4_a3">(3) digested into simple sugars</string>
+    <string name="qz3_q4_a4">(4) converted to carbon dioxide and ATP</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------        <string name="qz3_q5">5) Which expression correctly represents a reproductive process that usually occurs in humans where 2n is equal to the number of chromosomes in each body cell? </string>
+    <string name="qz3_q5_a1">(1) n + n → n</string>
+    <string name="qz3_q5_a2">(2) n + n → 2n</string>
+    <string name="qz3_q5_a3">(3) n + 2n → 2n</string>
+    <string name="qz3_q5_a4">(4) 2n + 2n → 4n</string>
+    ----------------------------------------------Question 6---------------------------------------------------------------        <string name="qz3_q6">6)  Which event would most likely cause a change in a genetic sequence in an organism? </string>
+    <string name="qz3_q6_a1">(1) eating certain foods high in saturated fats</string>
+    <string name="qz3_q6_a2">(2) strenuous physical activity</string>
+    <string name="qz3_q6_a3">(3) exposure to radiation</string>
+    <string name="qz3_q6_a4">(4) a sudden exposure to cooler temperatures</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        <string name="qz3_q7">7) Many scientists are worried about some of Earth’s finite resources because humans are </string>
+    <string name="qz3_q7_a1">(1) using carbon dioxide faster than it is being produced</string>
+    <string name="qz3_q7_a2">(2) placing industrial wastes in landfills</string>
+    <string name="qz3_q7_a3">(3) interfering with energy flow from consumers to producers</string>
+    <string name="qz3_q7_a4">(4) using large amounts of some materials that cannot be renewed</string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        <string name="qz3_q8">8) DNA is able to control cellular activities most directly by regulating the process of </string>
+    <string name="qz3_q8_a1">(1) meiotic division </string>
+    <string name="qz3_q8_a2">(2) protein synthesis </string>
+    <string name="qz3_q8_a3">(3) active transport </string>
+    <string name="qz3_q8_a4">(4) selective breeding </string>
+    ----------------------------------------------Question 9---------------------------------------------------------------        <string name="qz3_q9">9) Which statement best describes the role of decomposers? </string>
+    <string name="qz3_q9_a1">(1) They convert carbon dioxide and water to glucose.</string>
+    <string name="qz3_q9_a2">(2) They break down organic compounds into products used by other organisms.</string>
+    <string name="qz3_q9_a3">(3) They release oxygen to the atmosphere.</string>
+    <string name="qz3_q9_a4">(4) They provide energy for the synthesis of proteins.</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------        <string name="qz3_q10">10)  Cells of the immune system are able to respond to the presence of invading organisms because they recognize the </string>
+    <string name="qz3_q10_a1">(1) antigens present on the invaders </string>
+    <string name="qz3_q10_a2">(2) antibodies present in invading pathogens </string>
+    <string name="qz3_q10_a3">(3) DNA pattern in the nuclei of viruses </string>
+    <string name="qz3_q10_a4">(4) antibiotics released from microbes</string>
+    ----------------------------------------------END QUIZ THREE-----------------------------------------------------------
+    ----------------------------------------------START QUIZ FOUR----------------------------------------------------------
+    august 2009 Regents
+    QUIZ #1:  Q1;#1 | Q2;#14 | Q3;#20 | Q4;#9 | Q5;#13 | Q6;#16 | Q7;#17 | Q8;#31 | Q9;#24 | Q10;#26 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        <string name="qz4_q1">1) Organisms that are able to manufacture organic
+nutrients from substances in the abiotic environment
+are classified as </string>
+    <string name="qz4_a1">(1) heterotrophs</string>
+    <string name="qz4_a2">(2) fungi</string>
+    <string name="qz4_a3">(3) predators</string>
+    <string name="qz4_a4">(4) autotrophs</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        <string name="qz4_q2">2) Thousands of genetically identical trees have
+been discovered growing in a remote, undisturbed
+mountain area in Colorado. These trees
+are most likely the result of</string>
+    <string name="qz4_q2_a1">(1)  genetic engineering </string>
+    <string name="qz4_q2_a2">(2) become dormant </string>
+    <string name="qz4_q2_a3">(3) exist without respiration</string>
+    <string name="qz4_q2_a4">(4) make their own food</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        <string name="qz4_q3">3) A vaccine used against an infectious disease may
+contain </string>
+    <string name="qz4_q3_a1">(1) specialized blood cells</string>
+    <string name="qz4_q3_a2">(2) toxic enzymes</string>
+    <string name="qz4_q3_a3">(3) a variety of antibiotics</string>
+    <string name="qz4_q3_a4">(4) weakened pathogens</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        <string name="qz4_q4">4) The sorting and recombining of genes during
+meiosis and fertilization usually leads to the
+production of </string>
+    <string name="qz4_q4_a1">(1) gametes with many copies of the same
+chromosome</string>
+    <string name="qz4_q4_a2">(2) embryos with traits identical to those of all
+other members of the species</string>
+    <string name="qz4_q4_a3">(3) zygotes with the genetic information to
+produce only females</string>
+    <string name="qz4_q4_a4">(4) offspring with some traits that did not appear
+in their parents</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------        <string name="qz4_q5">5) When antibiotics were first developed, most
+infectious diseases could be controlled by them.
+Today, certain bacteria are resistant to many
+antibiotics. One possible explanation for this
+change is that </string>
+    <string name="qz4_q5_a1">(1)the antibiotics killed most of the bacteria that
+did not have a genetic variation for resistance</string>
+    <string name="qz4_q5_a2">(2) the bacteria needed to change in order to
+produce more antibiotics</string>
+    <string name="qz4_q5_a3">(3)  some of the bacteria learned how to resist
+the antibiotics</string>
+    <string name="qz4_q5_a4">(4)antibiotics have become weaker over the
+years</string>
+    ---------------------------------------------Question 6---------------------------------------------------------------        <string name="qz4_q6">6)  A large number of sperm cells are produced by
+males every day. This large number of sperm
+cells increases the chance that </string>
+    <string name="qz4_q6_a1">(1) at least one sperm cell will be reached when
+the eggs swim toward the sperm cells in the
+ovary</string>
+    <string name="qz4_q6_a2">(2) several sperm cells will unite with an egg so
+the fertilized egg will develop properly</string>
+    <string name="qz4_q6_a3">(3) some of the sperm cells will survive to reach
+the egg</string>
+    <string name="qz4_q6_a4">(4)enough sperm cells will be present to transport
+the egg from where it is produced to
+where it develops into a fetus</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        <string name="qz4_q7">7)Which statement best describes the relationship
+between the blood of a human fetus and the
+blood of the mother? </string>
+    <string name="qz4_q7_a1">(1) Their blood systems are separate only at
+certain times in development and connected
+at other times.</string>
+    <string name="qz4_q7_a2">(2) The blood flows directly from the mother
+into the fetus.</string>
+    <string name="qz4_q7_a3">(3)  Their blood systems are separate and no
+materials are exchanged.</string>
+    <string name="qz4_q7_a4">(4) Their blood systems are separate, but certain
+materials pass from one to the other. </string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        <string name="qz4_q8">8) A laboratory procedure calls for heating 50 milli -
+liters of a sugar solution to 60°C. Which piece of
+laboratory equipment will not be needed? </string>
+    <string name="qz4_q8_a1">(1) protective eyewear  </string>
+    <string name="qz4_q8_a2">(2) ruler </string>
+    <string name="qz4_q8_a3">(3) thermometer </string>
+    <string name="qz4_q8_a4">(4) graduated cylinder </string>
+    ---------------------------------------------Question 9---------------------------------------------------------------        <string name="qz4_q9">9) If an ecosystem is changed through a natural
+disaster, organisms will have the best chance of
+survival if  </string>
+    <string name="qz4_q9_a1">(1) their environment has few abiotic factors</string>
+    <string name="qz4_q9_a2">(2) the organisms are large</string>
+    <string name="qz4_q9_a3">(3) the population size is small</string>
+    <string name="qz4_q9_a4">(4) their species exhibits genetic variation</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------        <string name="qz4_q10">10)  Which human activity creates the least threat to
+global stability? </string>
+    <string name="qz4_q10_a1">(1) overuse of resources </string>
+    <string name="qz4_q10_a2">(2) pollution of water with heavy metals </string>
+    <string name="qz4_q10_a3">(3) pollution of air with sulfur gases </string>
+    <string name="qz4_q10_a4">(4) reuse of plastic bags</string>
+    ----------------------------------------------END QUIZ FOUR-----------------------------------------------------------
+    ----------------------------------------------START QUIZ FIVE----------------------------------------------------------
+    june 2012 Regents
+    QUIZ #1:  Q1;#1 | Q2;#4 | Q3;#16 | Q4;#14 | Q5;#20 | Q6;#24 | Q7;#28 | Q8;#31 | Q9;#18 | Q10;#7 |
+    ----------------------------------------------Question 1---------------------------------------------------------------
+    <string name="qz5_q1">1) One characteristic of all living things is that they </string>
+    <string name="qz5_a1">(1) develop organ systems</string>
+    <string name="qz5_a2">(2) produce identical offspring</string>
+    <string name="qz5_a3">(3)  maintain internal stability</string>
+    <string name="qz5_a4">(4) synthesize only inorganic matter</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------
+    <string name="qz5_q2">2) Which substance can enter a cell by diffusion
+without having to be digested?</string>
+    <string name="qz5_q2_a1">(1)  water </string>
+    <string name="qz5_q2_a2">(2) protein </string>
+    <string name="qz5_q2_a3">(3)  starch</string>
+    <string name="qz5_q2_a4">(4) fat</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------
+    <string name="qz5_q3">3) Which statement best describes bat populations
+in a stable ecosystem? </string>
+    <string name="qz5_q3_a1">(1) They are held in check by environmental
+factors</string>
+    <string name="qz5_q3_a2">(2)They are producers that rely indirectly on
+other producers</string>
+    <string name="qz5_q3_a3">(3) They are not limited by natural predators. </string>
+    <string name="qz5_q3_a4">(4) They are not dependent on other species.</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------
+    <string name="qz5_q4">4) Characteristics that are harmful to a species tend
+to decrease in frequency from generation to
+generation because these characteristics usually </string>
+    <string name="qz5_q4_a1">(1) have a high survival value for the species</string>
+    <string name="qz5_q4_a2">(2)have a low survival value for the species</string>
+    <string name="qz5_q4_a3">(3) are inherited by more individuals</string>
+    <string name="qz5_q4_a4">(4) affect only the older members of the population</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------
+    <string name="qz5_q5">5) During the process of photosynthesis, energy
+from the Sun is converted into </string>
+    <string name="qz5_q5_a1">(1)chemical energy in the bonds of inorganic
+molecules</string>
+    <string name="qz5_q5_a2">(2)  chemical energy in the bonds of organic
+molecules</string>
+    <string name="qz5_q5_a3">(3)  enzymes used to produce inorganic molecules</string>
+    <string name="qz5_q5_a4">(4)enzymes used to produce organic molecules</string>
+    ---------------------------------------------Question 6---------------------------------------------------------------
+    <string name="qz5_q6">6)  Which statement describes a similarity between
+all enzymes, antibodies, and hormones? </string>
+    <string name="qz5_q6_a1">(1) Their chemical structure is critical to their
+ability to function.</string>
+    <string name="qz5_q6_a2">(2) Their ability to replicate identical copies
+ensures continuation of the species.</string>
+    <string name="qz5_q6_a3">(3) They work better at 100°C than 37°C</string>
+    <string name="qz5_q6_a4">(4)eThey are made by and carried by the blood.</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------
+    <string name="qz5_q7">7)Which activity would reduce biodiversity in a
+forest ecosystem? </string>
+    <string name="qz5_q7_a1">(1)  adding plants that are naturally resistant to
+insects</string>
+    <string name="qz5_q7_a2">(2) protecting wildflowers from logging activities</string>
+    <string name="qz5_q7_a3">(3)  replacing harvested trees with young trees
+that are naturally found in the forest</string>
+    <string name="qz5_q7_a4">(4) clearing a large area and planting one species
+of hardwood tree that can be used for lumber </string>
+    ----------------------------------------------Question 8---------------------------------------------------------------
+    <string name="qz5_q8">8) The failure of a cell to react in a normal manner to
+insulin is most likely the result of a problem with </string>
+    <string name="qz5_q8_a1">(1) vacuoles  </string>
+    <string name="qz5_q8_a2">(2) receptors </string>
+    <string name="qz5_q8_a3">(3) mitochondria </string>
+    <string name="qz5_q8_a4">(4) sugars </string>
+    ---------------------------------------------Question 9---------------------------------------------------------------
+    <string name="qz5_q9">9) A scientist claimed that he had cloned a guinea
+pig to produce two offspring, a male and a
+female. The claim is not valid because  </string>
+    <string name="qz5_q9_a1">(1) guinea pigs can reproduce both sexually and
+asexually</string>
+    <string name="qz5_q9_a2">(2) the two offspring are not identical copies of
+the original guinea pig</string>
+    <string name="qz5_q9_a3">(3) each of the offspring had half the genetic
+information of the original guinea pig</string>
+    <string name="qz5_q9_a4">(4) none of the genetic information came from
+the original guinea pig</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------
+    <string name="qz5_q10">10)  Changing one base in a gene could have the
+most direct effect on the </string>
+    <string name="qz5_q10_a1">(1)  function of the membrane of a cell </string>
+    <string name="qz5_q10_a2">(2)sequence of building blocks of a protein
+found in a cell </string>
+    <string name="qz5_q10_a3">(3)number of mitochondria in a cell </string>
+    <string name="qz5_q10_a4">(4) type of carbohydrates synthesized by a cell</string>
+    ----------------------------------------------END QUIZ FIVE-----------------------------------------------------------
+    ----------------------------------------------START QUIZ SIX----------------------------------------------------------
+    jamuary 2014 Regents
+    QUIZ #1:  Q1;#1 | Q2;#10 | Q3;#13 | Q4;#14 | Q5;#20 | Q6;#24 | Q7;#28 | Q8;#5 | Q9;#18 | Q10;#7 |
+    ----------------------------------------------Question 1---------------------------------------------------------------
+    <string name="qz6_q1">1) The concentration of potassium is higher in red
+blood cells than in the surrounding blood plasma.
+This higher concentration is maintained by the
+process of</string>
+    <string name="qz6_a1">(1) circulation</string>
+    <string name="qz6_a2">(2) diffusion</string>
+    <string name="qz6_a3">(3)  excretion</string>
+    <string name="qz6_a4">(4)  active transport</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------
+    <string name="qz6_q2">2) Which process will result in a gain of energy in
+an ecosystem?</string>
+    <string name="qz6_q2_a1">(1)  photosynthesis in algae cells</string>
+    <string name="qz6_q2_a2">(2) digestion in hummingbirds </string>
+    <string name="qz6_q2_a3">(3) ATP synthesis in fungi</string>
+    <string name="qz6_q2_a4">(4)  respiration in maple tree cells</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------
+    <string name="qz6_q3">3) An infection in the body might result in a sudden </string>
+    <string name="qz6_q3_a1">(1) decrease in the activity of antigens produced
+by the mitochondria</string>
+    <string name="qz6_q3_a2">(2)decrease in the amount of DNA present in
+the nuclei of cells</string>
+    <string name="qz6_q3_a3">(3) increase in the activity of white blood cells </string>
+    <string name="qz6_q3_a4">(4)  increase in the number of red blood cells</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------
+    <string name="qz6_q4">4) Which disorder could develop in the human
+body when the immune system attacks a usually
+harmless environmental substance? </string>
+    <string name="qz6_q4_a1">(1) cancer</string>
+    <string name="qz6_q4_a2">(2) AIDS</string>
+    <string name="qz6_q4_a3">(3) an allergy</string>
+    <string name="qz6_q4_a4">(4) an infection</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------
+    <string name="qz6_q5">5) A fundamental concept of ecology is that living
+organisms</string>
+    <string name="qz6_q5_a1">(1) are independent and do not interact with
+each other or with the physical environment</string>
+    <string name="qz6_q5_a2">(2) do not interact with other living organisms, but
+do interact with the physical environment</string>
+    <string name="qz6_q5_a3">(3) interact with each other, but do not interact
+with the physical environment</string>
+    <string name="qz6_q5_a4">(4) interact with other living organisms and
+interact with the physical environment</string>
+    ---------------------------------------------Question 6---------------------------------------------------------------
+    <string name="qz6_q6">6) The graduating class of a high school would like
+to give the school a gift that would have a positive
+impact on the environment. Which plan would
+be the best choice?</string>
+    <string name="qz6_q6_a1">(1) making wooden benches by harvesting trees
+from school property</string>
+    <string name="qz6_q6_a2">(2) planting native trees along the border of the
+school property</string>
+    <string name="qz6_q6_a3">(3) introducing a new population of foxes, the
+school mascot, to school grounds</string>
+    <string name="qz6_q6_a4">(4) clearing an area to make room for additional
+student parking</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------
+    <string name="qz6_q7">7) In New York State, cars are inspected to be sure
+they are not releasing excessive amounts of
+several gases into the atmosphere. This is done
+in an effort to</string>
+    <string name="qz6_q7_a1">(1) recycle more nutrients</string>
+    <string name="qz6_q7_a2">(2) reduce biodiversity</string>
+    <string name="qz6_q7_a3">(3) reduce global warming</string>
+    <string name="qz6_q7_a4">(4) increase the growth rates of forests</string>
+    ----------------------------------------------Question 8---------------------------------------------------------------
+    <string name="qz6_q8">8) The variations that exist in a population of wild
+giraffes are usually a result of events that occur
+during</string>
+    <string name="qz6_q8_a1">(1) mitotic division  </string>
+    <string name="qz6_q8_a2">(2) genetic engineering </string>
+    <string name="qz6_q8_a3">(3) asexual reproduction </string>
+    <string name="qz6_q8_a4">(4) sexual reproduction </string>
+    ---------------------------------------------Question 9---------------------------------------------------------------
+    <string name="qz6_q9">9) Sugar maples and white pines are two different
+tree species that often grow side by side in
+the Adirondack Mountains. Which statement
+concerning these trees is correct? </string>
+    <string name="qz6_q9_a1">(1) Since they are both trees, they can interbreed.</string>
+    <string name="qz6_q9_a2">(2) Since they are not closely related, they do
+not compete with one another.</string>
+    <string name="qz6_q9_a3">(3) Even though they are both trees, each plays
+a different role in the ecosystem.</string>
+    <string name="qz6_q9_a4">(4) They utilize totally different abiotic resources.</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------
+    <string name="qz6_q10">10) The human immune system fights infection by
+releasing </string>
+    <string name="qz6_q10_a1">(1) ATPs </string>
+    <string name="qz6_q10_a2">(2) antibiotics </string>
+    <string name="qz6_q10_a3">(3) antibodies </string>
+    <string name="qz6_q10_a4">(4) antigens </string>
+    ----------------------------------------------END QUIZ SIX-----------------------------------------------------------       <string name="title_activity_random_question">RandomQuestion</string>
+
+    ----------------------------------------------START QUIZ SEVEN----------------------------------------------------------
+    Jan 2003 Regents
+    QUIZ #1:  Q1;#1 | Q2;#3 | Q3;#4 | Q4;#14 | Q5;#5 | Q6;#6 | Q7;#28 | Q8;#31 | Q9;#18 | Q10;#7 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        <string name="qz7_q1">1) A biologist reported success in breeding a tiger with a lion, producing healthy offspring. Other biologists will accept this report as fact only if</string>
+    <string name="qz7_a1">(1) research shows that other animals can be crossbred</string>
+    <string name="qz7_a2">(2) the offspring are given a scientific name</string>
+    <string name="qz7_a3">(3) the biologist included a control in the experiment</string>
+    <string name="qz7_a4">(4) other researchers can replicate the experiment</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------
+    <string name="qz7_q2">2) Which condition would cause an ecosystem to become unstable?</string>
+    <string name="qz7_q2_a1">(1) only heterotrophic organisms remain after a change in the environment</string>
+    <string name="qz7_q2_a2">(2) a slight increase in the number of hetero- trophic and autotrophic organisms occurs</string>
+    <string name="qz7_q2_a3">(3) a variety of nonliving factors are used by the living factors</string>
+    <string name="qz7_q2_a4">(4) biotic and abiotic resources interact</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------
+    <string name="qz7_q3">3) Nerve cells are essential to an animal because they directly provide </string>
+    <string name="qz7_q3_a1">(1) communication between cells</string>
+    <string name="qz7_q3_a2">(2) transport of nutrients to various organs</string>
+    <string name="qz7_q3_a3">(3) regulation of reproductive rates within other cells</string>
+    <string name="qz7_q3_a4">(4) an exchange of gases within the body
+</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------
+    <string name="qz7_q4">4) Which statement best illustrates a rapid biological adaptation that has actually occurred </string>
+    <string name="qz7_q4_a1">(1) Pesticide-resistant insects have developed in certain environments.</string>
+    <string name="qz7_q4_a2">(2) Scientific evidence indicates that dinosaurs once lived on land.</string>
+    <string name="qz7_q4_a3">(3) Paving large areas of land has decreased habitats for certain organisms.</string>
+    <string name="qz7_q4_a4">(4) The characteristics of sharks have remained unchanged over a long period of time.</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------
+    <string name="qz7_q5">5) Certain bacteria produce a chemical that makes them resistant to penicillin. Since these bacteria reproduce asexually, they usually produce off- spring that </string>
+    <string name="qz7_q5_a1">(1) can be destroyed by penicillin</string>
+    <string name="qz7_q5_a2">(2) mutate into another species</string>
+    <string name="qz7_q5_a3">(3) are genetically different from their parents</string>
+    <string name="qz7_q5_a4">(4) survive exposure to penicillin
+</string>
+    ---------------------------------------------Question 6---------------------------------------------------------------
+    <string name="qz7_q6">6)  A sudden change in the DNA of a chromosome can usually be passed on to future generations if the change occurs in a </string>
+    <string name="qz7_q6_a1">(1) skin cell</string>
+    <string name="qz7_q6_a2">(2) liver cell</string>
+    <string name="qz7_q6_a3">(3) sex cell</string>
+    <string name="qz7_q6_a4">(4) brain cell</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------
+    <string name="qz7_q7">7)In an ecosystem, which component is not recycled? </string>
+    <string name="qz7_q7_a1">(1) water</string>
+    <string name="qz7_q7_a2">(2) energy</string>
+    <string name="qz7_q7_a3">(3) oxygen</string>
+    <string name="qz7_q7_a4">(4) carbon </string>
+    ----------------------------------------------Question 8---------------------------------------------------------------
+    <string name="qz7_q8">8) The carrying capacity of a given environment is least dependent upon </string>
+    <string name="qz7_q8_a1">(1) recycling of materials </string>
+    <string name="qz7_q8_a2">(2) the available energy </string>
+    <string name="qz7_q8_a3">(3) the availability of food and water </string>
+    <string name="qz7_q8_a4">(4) daily temperature fluctuations </string>
+    ---------------------------------------------Question 9---------------------------------------------------------------
+    <string name="qz7_q9">9) The reproductive system of the human male produces gametes and </string>
+    <string name="qz7_q9_a1">(1) transfers gametes to the female for internal fertilization</string>
+    <string name="qz7_q9_a2">(2) produces enzymes that prevent fertilization</string>
+    <string name="qz7_q9_a3">(3) releases hormones involved in external fertilization</string>
+    <string name="qz7_q9_a4">(4) provides an area for fertilization provides an area for fertilization</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------
+    <string name="qz7_q10">10)  A change in the order of DNA bases that code for a respiratory protein will most likely cause</string>
+    <string name="qz7_q10_a1">(1) the production of a starch that has a similar function </string>
+    <string name="qz7_q10_a2">(2) the digestion of the altered gene by enzymes </string>
+    <string name="qz7_q10_a3">(3) a change in the sequence of amino acids determined by the gene </string>
+    <string name="qz7_q10_a4">(4) the release of antibodies by certain cells to correct the error</string>
+    ----------------------------------------------END QUIZ SEVEN-----------------------------------------------------------
+
+    ----------------------------------------------START QUIZ EIGHT----------------------------------------------------------
+    Jun 2003 Regents
+    QUIZ #1:  Q1;#1 | Q2;#2 | Q3;#4 | Q4;#6 | Q5;#9 | Q6;#10 | Q7;#11 | Q8;#12 | Q9;#13 | Q10;#23 |
+    ----------------------------------------------Question 1---------------------------------------------------------------
+<string name="qz8_q1">1) A student observes that an organism is green. A valid conclusion that can be drawn from this observation is that</string>
+<string name="qz8_a1">(1) the organism must be a plant</string>
+<string name="qz8_a2">(2) the organism cannot be single celled</string>
+<string name="qz8_a3">(3) the organism must be an animal</string>
+<string name="qz8_a4">(4) not enough information is given to determine whether the organism is a plant or an animal</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------
+<string name="qz8_q2">2) Why do scientists consider any hypothesis valuable?</string>
+<string name="qz8_q2_a1">(1) A hypothesis requires no further investigation.</string>
+<string name="qz8_q2_a2">(2) A hypothesis may lead to further investigation even if it is disproved by the experiment.</string>
+<string name="qz8_q2_a3">(3) A hypothesis requires no further investigation if it is proved by the experiment.</string>
+<string name="qz8_q2_a4">(4) A hypothesis can be used to explain a con- clusion even if it is disproved by the experiment.</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------
+<string name="qz8_q3">3) A great deal of information can now be obtained about the future health of people by examining the genetic makeup of their cells. There are concerns that this information could be used to deny an individual health insurance or employment. These concerns best illustrate that </string>
+<string name="qz8_q3_a1">(1) scientific explanations depend upon evidence collected from a single source</string>
+<string name="qz8_q3_a2">(2) scientific inquiry involves the collection of information from a large number of sources</string>
+<string name="qz8_q3_a3">(3) acquiring too much knowledge in human genetics will discourage future research in that area</string>
+<string name="qz8_q3_a4">(4) while science provides knowledge, values are essential to making ethical decisions using this knowledge </string>
+    ----------------------------------------------Question 4---------------------------------------------------------------
+<string name="qz8_q4">4) When a person does strenuous exercise, small blood vessels (capillaries) near the surface of the skin increase in diameter. This change allows the body to be cooled. These statements best illustrate </string>
+<string name="qz8_q4_a1">(1) synthesis</string>
+<string name="qz8_q4_a2">(2) homeostasis</string>
+<string name="qz8_q4_a3">(3) excretion</string>
+<string name="qz8_q4_a4">(4) locomotion</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------
+<string name="qz8_q5">5) Scientific studies show that identical twins who were separated at birth and raised in different homes may vary in height, weight, and intelli- gence. The most probable explanation for these differences is that </string>
+<string name="qz8_q5_a1">(1) original genes of each twin increased in number as they developed</string>
+<string name="qz8_q5_a2">(2) one twin received genes only from the mother while the other twin received genes only from the father</string>
+<string name="qz8_q5_a3">(3) environments in which they were raised were different enough to affect the expression of their genes</string>
+<string name="qz8_q5_a4">(4) environments in which they were raised were different enough to change the genetic makeup of both individuals
+</string>
+    ---------------------------------------------Question 6---------------------------------------------------------------
+<string name="qz8_q6">6)  When DNA separates into two strands, the DNA would most likely be directly involved in</string>
+<string name="qz8_q6_a1">(1) replication</string>
+<string name="qz8_q6_a2">(2) fertilization</string>
+<string name="qz8_q6_a3">(3) differentiation</string>
+<string name="qz8_q6_a4">(4) evolution</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------
+<string name="qz8_q7">7)The instructions for the traits of an organism are coded in the arrangement of </string>
+<string name="qz8_q7_a1">(1) glucose units in carbohydrate molecules</string>
+<string name="qz8_q7_a2">(2) bases in DNA in the nucleus</string>
+<string name="qz8_q7_a3">(3) fat molecules in the cell membrane</string>
+<string name="qz8_q7_a4">(4) energy-rich bonds in starch molecules </string>
+    ----------------------------------------------Question 8---------------------------------------------------------------
+<string name="qz8_q8">8) Which statement is true regarding an alteration or change in DNA? </string>
+<string name="qz8_q8_a1">(1) It is always known as a mutation.</string>
+<string name="qz8_q8_a2">(2) It is always advantageous to an individual. </string>
+<string name="qz8_q8_a3">(3) It is always passed on to offspring. </string>
+<string name="qz8_q8_a4">(4) It is always detected by the process of chromatography. </string>
+    ---------------------------------------------Question 9---------------------------------------------------------------
+<string name="qz8_q9">9) In heterotrophs, energy for the life processes comes from the chemical energy stored in the bonds of </string>
+<string name="qz8_q9_a1">(1) water molecules</string>
+<string name="qz8_q9_a2">(2) oxygen molecules</string>
+<string name="qz8_q9_a3">(3) organic compounds</string>
+<string name="qz8_q9_a4">(4) inorganic compounds</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------
+<string name="qz8_q10">10)  Which process normally occurs at the placenta?</string>
+<string name="qz8_q10_a1">(1) Oxygen diffuses from fetal blood to maternal blood. </string>
+<string name="qz8_q10_a2">(2) Materials are exchanged between fetal and maternal blood. </string>
+<string name="qz8_q10_a3">(3) Maternal blood is converted into fetal blood. </string>
+<string name="qz8_q10_a4">(4) Digestive enzymes pass from maternal blood to fetal blood.</string>
+    ----------------------------------------------END QUIZ SEVEN--------------------------------------------------------
+
+    <string name="title_activity_quiz_review">QuizReview</string>
+
+
+
+
+</resources>

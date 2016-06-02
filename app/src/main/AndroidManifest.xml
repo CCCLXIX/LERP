@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="simple.lerp" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".Analytics"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.gms.analytics.globalConfigResource"
+            android:resource="@xml/global_tracker" />
+
+        <activity
+            android:name=".WelcomeScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Welcome"
+            android:label="@string/title_activity_welcome" >
+        </activity>
+        <activity
+            android:name=".Main_Menu"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".NYSResources"
+            android:label="@string/title_activity_nysresources" >
+        </activity>
+        <activity
+            android:name=".ManageAccount"
+            android:label="@string/title_activity_manage_account" >
+        </activity>
+        <activity
+            android:name=".FirtTimeWelcome"
+            android:label="@string/title_activity_firt_time_welcome" >
+        </activity>
+        <activity
+            android:name=".Quizzes"
+            android:label="@string/title_activity_quizzes" >
+        </activity>
+        <activity
+            android:name=".QuizzActivity"
+            android:label="@string/title_activity_quizz" >
+        </activity>
+        <activity
+            android:name=".RandomQuestion"
+            android:label="@string/title_activity_random_question" >
+        </activity>
+        <activity
+            android:name=".MainMainMenu"
+            android:label="@string/title_activity_random_question" >
+        </activity>
+        <activity
+            android:name=".QuizReview"
+            android:label="@string/title_activity_quiz_review" >
+        </activity>
+    </application>
+
+</manifest>

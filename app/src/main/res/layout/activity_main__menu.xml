@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="match_parent" android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context="simple.lerp.Main_Menu"
+    android:background="@drawable/background_plain_2">
+
+    <HorizontalScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="240dp"
+        android:id="@+id/horizontalScrollView"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="178dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ImageView
+                android:layout_width="340dp"
+                android:layout_height="240dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/randomquestion_icon"
+                android:layout_alignTop="@+id/horizontalScrollView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="7dp"
+                android:onClick="RandomQuestion"
+                android:layout_gravity="center_horizontal" />
+
+            <ImageView
+                android:layout_width="340dp"
+                android:layout_height="240dp"
+                android:id="@+id/imageView4"
+                android:src="@drawable/quizzes_icon"
+                android:layout_alignTop="@+id/horizontalScrollView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="60dp"
+                android:onClick="Quizzes" />
+
+            <ImageView
+                android:layout_width="340dp"
+                android:layout_height="240dp"
+                android:id="@+id/imageView6"
+                android:src="@drawable/accountmanagement_icon"
+                android:layout_alignTop="@+id/horizontalScrollView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="60dp"
+                android:onClick="AccountManagement" />
+
+            <ImageView
+                android:layout_width="340dp"
+                android:layout_height="240dp"
+                android:id="@+id/imageView7"
+                android:src="@drawable/newyorkresources_icon"
+                android:layout_alignTop="@+id/horizontalScrollView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="45dp"
+                android:onClick="Resources" />
+
+            <ImageView
+                android:layout_width="340dp"
+                android:layout_height="240dp"
+                android:id="@+id/imageView12"
+                android:src="@drawable/ccclxix_icon"
+                android:layout_alignTop="@+id/horizontalScrollView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="45dp"
+                android:onClick="CCCLXIX" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</RelativeLayout>

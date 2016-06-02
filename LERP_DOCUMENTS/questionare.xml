@@ -1,0 +1,449 @@
+----------------------------------------------START QUIZ ONE-----------------------------------------------------------
+    June 2014 Regents
+    QUIZ #1:  Q1;#1 | Q2;#4 | Q3;#7 | Q4;#19 | Q5;#18 | Q6;#30 | Q7;#27 | Q8;#40 | Q9;#43 | Q10;#13 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        
+	<string name="qz1_q1">1)  Which quantity is scalar? </string>
+    <string name="qz1_a1">(1) mass </string>
+    <string name="qz1_a2">(2) force </string>
+    <string name="qz1_a3">(3) momentum </string>
+    <string name="qz1_a4">(4) acceleration </string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        
+	<string name="qz1_q2">2) What is the time required for an object starting from rest to fall freely 500. meters near Earth’s surface? </string>
+    <string name="qz1_q2_a1">(1) 51.0 s</string>
+    <string name="qz1_q2_a2">(2) 25.5 s</string>
+    <string name="qz1_q2_a3">(3) 10.1 s</string>
+    <string name="qz1_q2_a4">(4) 7.14 s</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        
+	<string name="qz1_q3">3) A truck, initially traveling at a speed of 22 meters per second, increases speed at a constant rate of 2.4 meters per second2 for 3.2 seconds. What is the total distance traveled by the truck during this 3.2-second time interval? </string>
+    <string name="qz1_q3_a1">(1) 12 m</string>
+    <string name="qz1_q3_a2">(2) 58 m</string>
+    <string name="qz1_q3_a3">(3) 70. m</string>
+    <string name="qz1_q3_a4">(4) 83 m</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        
+	<string name="qz1_q4">4) When a mass is placed on a spring with a spring constant of 60.0 newtons per meter, the spring is compressed 0.500 meter. How much energy is stored in the spring? </string>
+    <string name="qz1_q4_a1">(1) 60.0 J</string>
+    <string name="qz1_q4_a2">(2) 30.0 J</string>
+    <string name="qz1_q4_a3">(3) 15.0 J</string>
+    <string name="qz1_q4_a4">(4) 7.50 J</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------       
+	<string name="qz1_q5">5) As a monochromatic light ray passes from air into water, two characteristics of the ray that will not change are </string>
+    <string name="qz1_q5_a1">(1) wavelength and period</string>
+    <string name="qz1_q5_a2">(2) frequency and period</string>
+    <string name="qz1_q5_a3">(3) wavelength and speed</string>
+    <string name="qz1_q5_a4">(4) frequency and speed</string>
+    ----------------------------------------------Question 6---------------------------------------------------------------        
+	<string name="qz1_q6">6) What is the total energy released when 9.11 × 10−31 kilogram of mass is converted into energy? </string>
+    <string name="qz1_q6_a1">(1) 2.73 × 10^−22 J</string>
+    <string name="qz1_q6_a2">(2) 8.20 × 10^−14 J</string>
+    <string name="qz1_q6_a3">(3) 9.11 × 10^−31 J</string>
+    <string name="qz1_q6_a4">(4) 1.01 × 10^−47 J</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        
+	<string name="qz1_q7">7) When air is blown across the top of an open water bottle, air molecules in the bottle vibrate at a particular frequency and sound is produced. This phenomenon is called  </string>
+    <string name="qz1_q7_a1">(1) diffraction</string>
+    <string name="qz1_q7_a2">(2) refraction</string>
+    <string name="qz1_q7_a3">(3) resonance</string>
+    <string name="qz1_q7_a4">(4) the Doppler effect</string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        
+	<string name="qz1_q8">8) The total amount of electrical energy used by a 315-watt television during 30.0 minutes of operation is  </string>
+    <string name="qz1_q8_a1">(1) 5.67 × 10^5 J</string>
+    <string name="qz1_q8_a2">(2) 9.45 × 10^3 J</string>
+    <string name="qz1_q8_a3">(3) 1.05 × 10^1 J</string>
+    <string name="qz1_q8_a4">(4) 1.75 × 10^-1 J</string>
+    ----------------------------------------------Question 9---------------------------------------------------------------        
+	<string name="qz1_q9">9) Which electron transition between the energy levels of hydrogen causes the emission of a photon of visible light? </string>
+    <string name="qz1_q9_a1">(1) n = 6 to n = 5</string>
+    <string name="qz1_q9_a2">(2) n = 5 to n = 6</string>
+    <string name="qz1_q9_a3">(3) n = 5 to n = 2</string>
+    <string name="qz1_q9_a4">(4) n = 2 to n = 5</string>
+    ----------------------------------------------Question 10---------------------------------------------------------------        
+	<string name="qz1_q10">10)  How much work is required to move 3.0 coulombs of electric charge a distance of 0.010 meter through a potential difference of 9.0 volts? </string>
+    <string name="qz1_q10_a1">(1) 2.7 × 10^3 J </string>
+    <string name="qz1_q10_a2">(2) 27 J</string>
+    <string name="qz1_q10_a3">(3) 3.0 J</string>
+    <string name="qz1_q10_a4">(4) 3.0 × 10^−2 J</string>
+    ----------------------------------------------END QUIZ ONE-------------------------------------------------------------
+
+    ----------------------------------------------START QUIZ TWO-----------------------------------------------------------
+    June 2006 Regents
+    QUIZ #1:  Q1;#2 | Q2;#24 | Q3;#9 | Q4;#13 | Q5;#8 | Q6;#14 | Q7;#16 | Q8;#18 | Q9;#33 | Q10;#25 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        
+	<string name="qz2_q1">1) A rock falls from rest off a high cliff. How far has the rock fallen when its speed is 39.2 meters per second? [Neglect friction.]</string>
+    <string name="qz2_a1">(1) 19.6 m</string>
+    <string name="qz2_a2">(2) 44.1 m</string>
+    <string name="qz2_a3">(3) 78.3 m</string>
+    <string name="qz2_a4">(4) 123 m</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        
+	<string name="qz2_q2">2) As the number of resistors in a parallel circuit is increased, what happens to the equivalent resistance of the circuit and total current in the circuit? </string>
+    <string name="qz2_q2_a1">(1) Both equivalent resistance and total current decrease. </string>
+    <string name="qz2_q2_a2">(2) Both equivalent resistance and total current increase. </string>
+    <string name="qz2_q2_a3">(3) Equivalent resistance decreases and total current increases.</string>
+    <string name="qz2_q2_a4">(4) Equivalent resistance increases and total current decreases.</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        
+	<string name="qz2_q3">3) A 60-kilogram student jumps down from a laboratory counter. At the instant he lands on the floor his speed is 3 meters per second. If the student stops in 0.2 second, what is the average force of the floor on the student?</string>
+    <string name="qz2_q3_a1">(1) 1 × 10^–2 N</string>
+    <string name="qz2_q3_a2">(2) 1 × 10^2 N</string>
+    <string name="qz2_q3_a3">(3) 9 x 10^2</string>
+    <string name="qz2_q3_a4">(4) 4 N</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        
+	<string name="qz2_q4">4) A person weighing 6.0 × 10^2 newtons rides an elevator upward at an average speed of 3.0 meters per second for 5.0 seconds. How much does this person’s gravitational potential energy increase as a result of this ride?</string>
+    <string name="qz2_q4_a1">(1) 3.6 × 10^2 J</string>
+    <string name="qz2_q4_a2">(2) 1.8 × 10^3 J</string>
+    <string name="qz2_q4_a3">(3) 3.0 × 10^3 J</string>
+    <string name="qz2_q4_a4">(4) 9.0 × 10^3 J</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------        
+	<string name="qz2_q5">5) The magnitude of the centripetal force acting on the student at point A is approximately </string>
+    <string name="qz2_q5_a1">(1) 1.2 × 10^4 N</string>
+    <string name="qz2_q5_a2">(2) 1.9 × 10^3 N</string>
+    <string name="qz2_q5_a3">(3) 2.2 × 10^2 N</string>
+    <string name="qz2_q5_a4">(4) 3.0 × 10^1 N</string>
+    ----------------------------------------------Question 6---------------------------------------------------------------        
+	<string name="qz2_q6">6)  The potential energy stored in a compressed spring is to the change in the spring’s length as the kinetic energy of a moving body is to the body’s</string>
+    <string name="qz2_q6_a1">(1) speed</string>
+    <string name="qz2_q6_a2">(2) mass</string>
+    <string name="qz2_q6_a3">(3) radius</string>
+    <string name="qz2_q6_a4">(4) acceleration</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        
+	<string name="qz2_q7">7) During an emergency stop, a 1.5 × 10^3-kilogram car lost a total of 3.0 × 10^5 joules of kinetic energy. What was the speed of the car at the moment the brakes were applied? </string>
+    <string name="qz2_q7_a1">(1) 10. m/s</string>
+    <string name="qz2_q7_a2">(2) 14 m/s</string>
+    <string name="qz2_q7_a3">(3) 20. m/s</string>
+    <string name="qz2_q7_a4">(4) 25 m/s</string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        
+	<string name="qz2_q8">8) What is the resistance at 20.°C of a 2.0-meter length of tungsten wire with a cross-sectional area of 7.9 × 10^–7 meter^2? </string>
+    <string name="qz2_q8_a1">(1) 5.7 × 10^–1 Ω </string>
+    <string name="qz2_q8_a2">(2) 1.4 × 10^–1 Ω </string>
+    <string name="qz2_q8_a3">(3) 7.1 × 10–2 Ω </string>
+    <string name="qz2_q8_a4">(4) 4.0 × 10–2 Ω </string>
+    ----------------------------------------------Question 9---------------------------------------------------------------        
+	<string name="qz2_q9">9) An earthquake wave is traveling from west to east through rock. If the particles of the rock are vibrating in a north-south direction, the wave must be classified as </string>
+    <string name="qz2_q9_a1">(1) transverse</string>
+    <string name="qz2_q9_a2">(2) longitudinal</string>
+    <string name="qz2_q9_a3">(3) a microwave</string>
+    <string name="qz2_q9_a4">(4) a radio wave</string>
+    ----------------------------------------------Question 10---------------------------------------------------------------        
+	<string name="qz2_q10">10)  The energy of a sound wave is most closely related to its </string>
+    <string name="qz2_q10_a1">(1) period </string>
+    <string name="qz2_q10_a2">(2) amplitude </string>
+    <string name="qz2_q10_a3">(3) frequency </string>
+    <string name="qz2_q10_a4">(4) wavelength</string>
+    ----------------------------------------------END QUIZ TWO-------------------------------------------------------------
+
+    ----------------------------------------------START QUIZ THREE---------------------------------------------------------
+    January 2009 Regents
+    QUIZ #1:  Q1;#1 | Q2;#7 | Q3;#16 | Q4;#4 | Q5;#18 | Q6;#15 | Q7;#27 | Q8;#14 | Q9;#26 | Q10;#22 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        
+	<string name="qz3_q1">1) A force of 25 newtons east and a force of 25 newtons west act concurrently on a 5.0-kilogram cart. What is the acceleration of the cart? </string>
+    <string name="qz3_a1">(1) 1.0 m/s^2 west</string>
+    <string name="qz3_a2">(2) 0.20 m/s^2 east</string>
+    <string name="qz3_a3">(3) 5.0 m/s^2 east</string>
+    <string name="qz3_a4">(4) 0 m/s^2</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        
+	<string name="qz3_q2">2) Centripetal force Fc acts on a car going around a curve. If the speed of the car were twice as great, the magnitude of the centripetal force necessary to keep the car moving in the same path would be </string>
+    <string name="qz3_q2_a1">(1) Fc </string>
+    <string name="qz3_q2_a2">(2) 2Fc </string>
+    <string name="qz3_q2_a3">(3) Fc/2</string>
+    <string name="qz3_q2_a4">(4) 4Fc</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        
+	<string name="qz3_q3">3) At 20°C, four conducting wires made of different materials have the same length and the same diameter. Which wire has the least resistance? </string>
+    <string name="qz3_q3_a1">(1) aluminum</string>
+    <string name="qz3_q3_a2">(2) gold</string>
+    <string name="qz3_q3_a3">(3) nichrome</string>
+    <string name="qz3_q3_a4">(4) tungsten</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        
+	<string name="qz3_q4">4) As a car is driven south in a straight line with decreasing speed, the acceleration of the car must be </string>
+    <string name="qz3_q4_a1">(1) directed northward</string>
+    <string name="qz3_q4_a2">(2) directed southward</string>
+    <string name="qz3_q4_a3">(3) zero</string>
+    <string name="qz3_q4_a4">(4) constant, but not zero</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------        
+	<string name="qz3_q5">5) A 2.0-ohm resistor and a 4.0-ohm resistor are connected in series with a 12-volt battery. If the current through the 2.0-ohm resistor is 2.0 amperes, the current through the 4.0-ohm resistor is </string>
+    <string name="qz3_q5_a1">(1) 1.0 A</string>
+    <string name="qz3_q5_a2">(2) 2.0 A</string>
+    <string name="qz3_q5_a3">(3) 3.0 A</string>
+    <string name="qz3_q5_a4">(4) 4.0 A</string>
+    ----------------------------------------------Question 6---------------------------------------------------------------        
+	<string name="qz3_q6">6)  If 20 joules of work is used to transfer 20 coulombs of charge through a 20-ohm resistor, the potential difference across the resistor is </string>
+    <string name="qz3_q6_a1">(1) 1 V</string>
+    <string name="qz3_q6_a2">(2) 20 V</string>
+    <string name="qz3_q6_a3">(3) 0.05 V</string>
+    <string name="qz3_q6_a4">(4) 400 V</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        
+	<string name="qz3_q7">7) Which characteristic is the same for every color of light in a vacuum? </string>
+    <string name="qz3_q7_a1">(1) energy</string>
+    <string name="qz3_q7_a2">(2) frequency</string>
+    <string name="qz3_q7_a3">(3) speed</string>
+    <string name="qz3_q7_a4">(4) period</string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        
+	<string name="qz3_q8">8) Which situation describes a system with decreasing gravitational potential energy? </string>
+    <string name="qz3_q8_a1">(1) a girl stretching a horizontal spring</string>
+    <string name="qz3_q8_a2">(2) a bicyclist riding up a steep hill </string>
+    <string name="qz3_q8_a3">(3) a rocket rising vertically from Earth</string>
+    <string name="qz3_q8_a4">(4) a boy jumping down from a tree limb</string>
+    ----------------------------------------------Question 9---------------------------------------------------------------        
+	<string name="qz3_q9">9) Which unit is equivalent to meters per second? </string>
+    <string name="qz3_q9_a1">(1) Hz•s</string>
+    <string name="qz3_q9_a2">(2) Hz•m</string>
+    <string name="qz3_q9_a3">(3) s/Hz</string>
+    <string name="qz3_q9_a4">(4) m/Hz</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------        
+	<string name="qz3_q10">10)  A dampened fingertip rubbed around the rim of a crystal stemware glass causes the glass to vibrate and produce a musical note. This effect is due to </string>
+    <string name="qz3_q10_a1">(1) resonance</string>
+    <string name="qz3_q10_a2">(2) refraction</string>
+    <string name="qz3_q10_a3">(3) reflection</string>
+    <string name="qz3_q10_a4">(4) rarefaction</string>
+    ----------------------------------------------END QUIZ THREE-----------------------------------------------------------
+    ----------------------------------------------START QUIZ FOUR----------------------------------------------------------
+    august 2009 Regents
+    QUIZ #1:  Q1;#1 | Q2;#14 | Q3;#20 | Q4;#9 | Q5;#13 | Q6;#16 | Q7;#17 | Q8;#31 | Q9;#24 | Q10;#25 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        <string name="qz4_q1">1) Organisms that are able to manufacture organic
+nutrients from substances in the abiotic environment
+are classified as </string>
+    <string name="qz4_a1">(1) heterotrophs</string>
+    <string name="qz4_a2">(2) fungi</string>
+    <string name="qz4_a3">(3) predators</string>
+    <string name="qz4_a4">(4) autotrophs</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        <string name="qz4_q2">2) Thousands of genetically identical trees have
+been discovered growing in a remote, undisturbed
+mountain area in Colorado. These trees
+are most likely the result of</string>
+    <string name="qz4_q2_a1">(1)  genetic engineering </string>
+    <string name="qz4_q2_a2">(2) become dormant </string>
+    <string name="qz4_q2_a3">(3) exist without respiration</string>
+    <string name="qz4_q2_a4">(4) make their own food</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        <string name="qz4_q3">3) A vaccine used against an infectious disease may
+contain </string>
+    <string name="qz4_q3_a1">(1) specialized blood cells</string>
+    <string name="qz4_q3_a2">(2) toxic enzymes</string>
+    <string name="qz4_q3_a3">(3) a variety of antibiotics</string>
+    <string name="qz4_q3_a4">(4) weakened pathogens</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        <string name="qz4_q4">4) The sorting and recombining of genes during
+meiosis and fertilization usually leads to the
+production of </string>
+    <string name="qz4_q4_a1">(1) gametes with many copies of the same
+chromosome</string>
+    <string name="qz4_q4_a2">(2) embryos with traits identical to those of all
+other members of the species</string>
+    <string name="qz4_q4_a3">(3) zygotes with the genetic information to
+produce only females</string>
+    <string name="qz4_q4_a4">(4) offspring with some traits that did not appear
+in their parents</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------        <string name="qz4_q5">5) When antibiotics were first developed, most
+infectious diseases could be controlled by them.
+Today, certain bacteria are resistant to many
+antibiotics. One possible explanation for this
+change is that </string>
+    <string name="qz4_q5_a1">(1)the antibiotics killed most of the bacteria that
+did not have a genetic variation for resistance</string>
+    <string name="qz4_q5_a2">(2) the bacteria needed to change in order to
+produce more antibiotics</string>
+    <string name="qz4_q5_a3">(3)  some of the bacteria learned how to resist
+the antibiotics</string>
+    <string name="qz4_q5_a4">(4)antibiotics have become weaker over the
+years</string>
+    ---------------------------------------------Question 6---------------------------------------------------------------        <string name="qz4_q6">6)  A large number of sperm cells are produced by
+males every day. This large number of sperm
+cells increases the chance that </string>
+    <string name="qz4_q6_a1">(1) at least one sperm cell will be reached when
+the eggs swim toward the sperm cells in the
+ovary</string>
+    <string name="qz4_q6_a2">(2) several sperm cells will unite with an egg so
+the fertilized egg will develop properly</string>
+    <string name="qz4_q6_a3">(3) some of the sperm cells will survive to reach
+the egg</string>
+    <string name="qz4_q6_a4">(4)enough sperm cells will be present to transport
+the egg from where it is produced to
+where it develops into a fetus</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        <string name="qz4_q7">7)Which statement best describes the relationship
+between the blood of a human fetus and the
+blood of the mother? </string>
+    <string name="qz4_q7_a1">(1) Their blood systems are separate only at
+certain times in development and connected
+at other times.</string>
+    <string name="qz4_q7_a2">(2) The blood flows directly from the mother
+into the fetus.</string>
+    <string name="qz4_q7_a3">(3)  Their blood systems are separate and no
+materials are exchanged.</string>
+    <string name="qz4_q7_a4">(4) Their blood systems are separate, but certain
+materials pass from one to the other. </string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        <string name="qz4_q8">8) A laboratory procedure calls for heating 50 milli -
+liters of a sugar solution to 60°C. Which piece of
+laboratory equipment will not be needed? </string>
+    <string name="qz4_q8_a1">(1) protective eyewear  </string>
+    <string name="qz4_q8_a2">(2) ruler </string>
+    <string name="qz4_q8_a3">(3) thermometer </string>
+    <string name="qz4_q8_a4">(4) graduated cylinder </string>
+    ---------------------------------------------Question 9---------------------------------------------------------------        <string name="qz4_q9">9) If an ecosystem is changed through a natural
+disaster, organisms will have the best chance of
+survival if  </string>
+    <string name="qz4_q9_a1">(1) their environment has few abiotic factors</string>
+    <string name="qz4_q9_a2">(2) the organisms are large</string>
+    <string name="qz4_q9_a3">(3) the population size is small</string>
+    <string name="qz4_q9_a4">(4) their species exhibits genetic variation</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------        <string name="qz4_q10">10)  Which human activity creates the least threat to
+global stability? </string>
+    <string name="qz4_q10_a1">(1) overuse of resources </string>
+    <string name="qz4_q10_a2">(2) pollution of water with heavy metals </string>
+    <string name="qz4_q10_a3">(3) pollution of air with sulfur gases </string>
+    <string name="qz4_q10_a4">(4) reuse of plastic bags</string>
+    ----------------------------------------------END QUIZ FOUR-----------------------------------------------------------
+    ----------------------------------------------START QUIZ FIVE----------------------------------------------------------
+    june 2012 Regents
+    QUIZ #1:  Q1;#1 | Q2;#4 | Q3;#16 | Q4;#14 | Q5;#20 | Q6;#24 | Q7;#28 | Q8;#31 | Q9;#18 | Q10;#7 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        <string name="qz5_q1">1) One characteristic of all living things is that they </string>
+    <string name="qz5_a1">(1) develop organ systems</string>
+    <string name="qz5_a2">(2) produce identical offspring</string>
+    <string name="qz5_a3">(3)  maintain internal stability</string>
+    <string name="qz5_a4">(4) synthesize only inorganic matter</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        <string name="qz5_q2">2) Which substance can enter a cell by diffusion
+without having to be digested?</string>
+    <string name="qz5_q2_a1">(1)  water </string>
+    <string name="qz5_q2_a2">(2) protein </string>
+    <string name="qz5_q2_a3">(3)  starch</string>
+    <string name="qz5_q2_a4">(4) fat</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        <string name="qz5_q3">3) Which statement best describes bat populations
+in a stable ecosystem? </string>
+    <string name="qz5_q3_a1">(1) They are held in check by environmental
+factors</string>
+    <string name="qz5_q3_a2">(2)They are producers that rely indirectly on
+other producers</string>
+    <string name="qz5_q3_a3">(3) They are not limited by natural predators. </string>
+    <string name="qz5_q3_a4">(4) They are not dependent on other species.</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        <string name="qz5_q4">4) TCharacteristics that are harmful to a species tend
+to decrease in frequency from generation to
+generation because these characteristics usually </string>
+    <string name="qz5_q4_a1">(1) have a high survival value for the species</string>
+    <string name="qz5_q4_a2">(2)have a low survival value for the species</string>
+    <string name="qz5_q4_a3">(3) are inherited by more individuals</string>
+    <string name="qz5_q4_a4">(4) affect only the older members of the population</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------        <string name="qz5_q5">5) During the process of photosynthesis, energy
+from the Sun is converted into </string>
+    <string name="qz5_q5_a1">(1)chemical energy in the bonds of inorganic
+molecules</string>
+    <string name="qz5_q5_a2">(2)  chemical energy in the bonds of organic
+molecules</string>
+    <string name="qz5_q5_a3">(3)  enzymes used to produce inorganic molecules</string>
+    <string name="qz5_q5_a4">(4)enzymes used to produce organic molecules</string>
+    ---------------------------------------------Question 6---------------------------------------------------------------        <string name="qz5_q6">6)  Which statement describes a similarity between
+all enzymes, antibodies, and hormones? </string>
+    <string name="qz5_q6_a1">(1) Their chemical structure is critical to their
+ability to function.</string>
+    <string name="qz5_q6_a2">(2) Their ability to replicate identical copies
+ensures continuation of the species.</string>
+    <string name="qz5_q6_a3">(3) They work better at 100°C than 37°C</string>
+    <string name="qz5_q6_a4">(4)eThey are made by and carried by the blood.</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        <string name="qz5_q7">7)Which activity would reduce biodiversity in a
+forest ecosystem? </string>
+    <string name="qz5_q7_a1">(1)  adding plants that are naturally resistant to
+insects</string>
+    <string name="qz5_q7_a2">(2) protecting wildflowers from logging activities</string>
+    <string name="qz5_q7_a3">(3)  replacing harvested trees with young trees
+that are naturally found in the forest</string>
+    <string name="qz5_q7_a4">(4) clearing a large area and planting one species
+of hardwood tree that can be used for lumber </string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        <string name="qz5_q8">8) The failure of a cell to react in a normal manner to
+insulin is most likely the result of a problem with </string>
+    <string name="qz5_q8_a1">(1) vacuoles  </string>
+    <string name="qz5_q8_a2">(2) receptors </string>
+    <string name="qz5_q8_a3">(3) mitochondria </string>
+    <string name="qz5_q8_a4">(4) sugars </string>
+    ---------------------------------------------Question 9---------------------------------------------------------------        <string name="qz5_q9">9) A scientist claimed that he had cloned a guinea
+pig to produce two offspring, a male and a
+female. The claim is not valid because  </string>
+    <string name="qz5_q9_a1">(1) guinea pigs can reproduce both sexually and
+asexually</string>
+    <string name="qz5_q9_a2">(2) the two offspring are not identical copies of
+the original guinea pig</string>
+    <string name="qz5_q9_a3">(3) each of the offspring had half the genetic
+information of the original guinea pig</string>
+    <string name="qz5_q9_a4">(4) none of the genetic information came from
+the original guinea pig</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------        <string name="qz5_q10">10)  Changing one base in a gene could have the
+most direct effect on the </string>
+    <string name="qz5_q10_a1">(1)  function of the membrane of a cell </string>
+    <string name="qz5_q10_a2">(2)sequence of building blocks of a protein
+found in a cell </string>
+    <string name="qz5_q10_a3">(3)number of mitochondria in a cell </string>
+    <string name="qz5_q10_a4">(4) type of carbohydrates synthesized by a cell</string>
+    ----------------------------------------------END QUIZ FIVE-----------------------------------------------------------
+    ----------------------------------------------START QUIZ SIX----------------------------------------------------------
+    jamuary 2014 Regents
+    QUIZ #1:  Q1;#1 | Q2;#10 | Q3;#13 | Q4;#14 | Q5;#20 | Q6;#24 | Q7;#28 | Q8;#31 | Q9;#18 | Q10;#7 |
+    ----------------------------------------------Question 1---------------------------------------------------------------        <string name="qz6_q1">1) The concentration of potassium is higher in red
+blood cells than in the surrounding blood plasma.
+This higher concentration is maintained by the
+process of</string>
+    <string name="qz6_a1">(1) circulation</string>
+    <string name="qz6_a2">(2) diffusion</string>
+    <string name="qz6_a3">(3)  excretion</string>
+    <string name="qz6_a4">(4)  active transport</string>
+    ----------------------------------------------Question 2---------------------------------------------------------------        <string name="qz6_q2">2) Which process will result in a gain of energy in
+an ecosystem?</string>
+    <string name="qz6_q2_a1">(1)  photosynthesis in algae cells</string>
+    <string name="qz6_q2_a2">(2) digestion in hummingbirds </string>
+    <string name="qz6_q2_a3">(3) ATP synthesis in fungi</string>
+    <string name="qz6_q2_a4">(4)  respiration in maple tree cells</string>
+    ----------------------------------------------Question 3---------------------------------------------------------------        <string name="qz6_q3">3) An infection in the body might result in a sudden </string>
+    <string name="qz6_q3_a1">(1) decrease in the activity of antigens produced
+by the mitochondria</string>
+    <string name="qz6_q3_a2">(2)decrease in the amount of DNA present in
+the nuclei of cells</string>
+    <string name="qz6_q3_a3">(3) increase in the activity of white blood cells </string>
+    <string name="qz6_q3_a4">(4)  increase in the number of red blood cells</string>
+    ----------------------------------------------Question 4---------------------------------------------------------------        <string name="qz6_q4">4) TCharacteristics that are harmful to a species tend
+to decrease in frequency from generation to
+generation because these characteristics usually </string>
+    <string name="qz6_q4_a1">(1) have a high survival value for the species</string>
+    <string name="qz6_q4_a2">(2)have a low survival value for the species</string>
+    <string name="qz6_q4_a3">(3) are inherited by more individuals</string>
+    <string name="qz6_q4_a4">(4) affect only the older members of the population</string>
+    ----------------------------------------------Question 5---------------------------------------------------------------        <string name="qz6_q5">5) During the process of photosynthesis, energy
+from the Sun is converted into </string>
+    <string name="qz6_q5_a1">(1)chemical energy in the bonds of inorganic
+molecules</string>
+    <string name="qz6_q5_a2">(2)  chemical energy in the bonds of organic
+molecules</string>
+    <string name="qz6_q5_a3">(3)  enzymes used to produce inorganic molecules</string>
+    <string name="qz6_q5_a4">(4)enzymes used to produce organic molecules</string>
+    ---------------------------------------------Question 6---------------------------------------------------------------        <string name="qz6_q6">6)  Which statement describes a similarity between
+all enzymes, antibodies, and hormones? </string>
+    <string name="qz6_q6_a1">(1) Their chemical structure is critical to their
+ability to function.</string>
+    <string name="qz6_q6_a2">(2) Their ability to replicate identical copies
+ensures continuation of the species.</string>
+    <string name="qz6_q6_a3">(3) They work better at 100°C than 37°C</string>
+    <string name="qz6_q6_a4">(4)eThey are made by and carried by the blood.</string>
+    ----------------------------------------------Question 7---------------------------------------------------------------        <string name="qz6_q7">7)Which activity would reduce biodiversity in a
+forest ecosystem? </string>
+    <string name="qz6_q7_a1">(1)  adding plants that are naturally resistant to
+insects</string>
+    <string name="qz6_q7_a2">(2) protecting wildflowers from logging activities</string>
+    <string name="qz6_q7_a3">(3)  replacing harvested trees with young trees
+that are naturally found in the forest</string>
+    <string name="qz6_q7_a4">(4) clearing a large area and planting one species
+of hardwood tree that can be used for lumber </string>
+    ----------------------------------------------Question 8---------------------------------------------------------------        <string name="qz6_q8">8) The failure of a cell to react in a normal manner to
+insulin is most likely the result of a problem with </string>
+    <string name="qz6_q8_a1">(1) vacuoles  </string>
+    <string name="qz6_q8_a2">(2) receptors </string>
+    <string name="qz6_q8_a3">(3) mitochondria </string>
+    <string name="qz6_q8_a4">(4) sugars </string>
+    ---------------------------------------------Question 9---------------------------------------------------------------        <string name="qz6_q9">9) A scientist claimed that he had cloned a guinea
+pig to produce two offspring, a male and a
+female. The claim is not valid because  </string>
+    <string name="qz6_q9_a1">(1) guinea pigs can reproduce both sexually and
+asexually</string>
+    <string name="qz6_q9_a2">(2) the two offspring are not identical copies of
+the original guinea pig</string>
+    <string name="qz6_q9_a3">(3) each of the offspring had half the genetic
+information of the original guinea pig</string>
+    <string name="qz6_q9_a4">(4) none of the genetic information came from
+the original guinea pig</string>
+    ----------------------------------------------Question 10--------------------------------------------------------------        <string name="qz6_q10">10)  Changing one base in a gene could have the
+most direct effect on the </string>
+    <string name="qz6_q10_a1">(1)  function of the membrane of a cell </string>
+    <string name="qz6_q10_a2">(2)sequence of building blocks of a protein
+found in a cell </string>
+    <string name="qz6_q10_a3">(3)number of mitochondria in a cell </string>
+    <string name="qz6_q10_a4">(4) type of carbohydrates synthesized by a cell</string>
+    ----------------------------------------------END QUIZ SIX-----------------------------------------------------------       <string name="title_activity_random_question">RandomQuestion</string>
+    <string name="title_activity_ccclxix">CCCLXIX</string>

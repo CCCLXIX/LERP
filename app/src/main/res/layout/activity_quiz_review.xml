@@ -1,0 +1,660 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context="simple.lerp.QuizReview"
+    android:id="@+id/quiz_review"
+    android:background="@drawable/background_plain_2">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView6"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="194dp"
+        android:layout_alignParentBottom="true" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion"
+                android:textSize="18dp"
+                android:textColor="#ffffffff" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ1PA1"
+                android:layout_below="@+id/ReviewTextQuestion"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ1PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ1PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ1PA4"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            //Answer Key for Quiz #1---
+            public static final int Q1A = 3;
+            public static final int Q2A = 3;
+            public static final int Q3A = 3;
+            public static final int Q4A = 2;+--
+            public static final int Q5A = 3;+
+            public static final int Q6A = 2;+
+            public static final int Q7A = 3;+
+            public static final int Q8A = 3;+
+            public static final int Q9A = 2;
+            public static final int Q10A = 4;
+            //Answer Key for Quiz #2---
+            public static final int QQ1A = 3;+
+            public static final int QQ2A = 2;+
+            public static final int QQ3A = 3;+
+            public static final int QQ4A = 3;+
+            public static final int QQ5A = 3;+
+            public static final int QQ6A = 1;+
+            public static final int QQ7A = 4;+
+            public static final int QQ8A = 1;+
+            public static final int QQ9A = 4;
+            public static final int QQ10A = 2;
+            //Answer Key for Quiz #3---
+            public static final int QQQ1A = 3;+
+            public static final int QQQ2A = 4;+
+            public static final int QQQ3A = 4;+
+            public static final int QQQ4A = 3;+
+            public static final int QQQ5A = 2;+
+            public static final int QQQ6A = 3;+
+            public static final int QQQ7A = 4;+
+            public static final int QQQ8A = 2;+
+            public static final int QQQ9A = 2;+
+            public static final int QQQ10A = 1;+
+            //Answer Key for Quiz #4---
+            public static final int Q1A4 = 4;+
+            public static final int Q2A4 = 2;+
+            public static final int Q3A4 = 4;+
+            public static final int Q4A4 = 4;+
+            public static final int Q5A4 = 1;+
+            public static final int Q6A4 = 3;+
+            public static final int Q7A4 = 4;+
+            public static final int Q8A4 = 2;+
+            public static final int Q9A4 = 4;+
+            public static final int Q10A4 = 4;+
+            //Answer Key for Quiz #5---
+            public static final int QQ1A5 = 3;+
+            public static final int QQ2A5 = 1;+
+            public static final int QQ3A5 = 1;+
+            public static final int QQ4A5 = 2;+
+            public static final int QQ5A5 = 2;+
+            public static final int QQ6A5 = 1;+
+            public static final int QQ7A5 = 4;+
+            public static final int QQ8A5 = 2;+
+            public static final int QQ9A5 = 2;+
+            public static final int QQ10A5 = 2;
+            //Answer Key for Quiz #6---
+            public static final int QQQ1A6 = 4;+
+            public static final int QQQ2A6 = 1;+
+            public static final int QQQ3A6 = 3;+
+            public static final int QQQ4A6 = 3;+
+            public static final int QQQ5A6 = 4;+
+            public static final int QQQ6A6 = 2;+
+            public static final int QQQ7A6 = 3;+
+            public static final int QQQ8A6 = 4;+
+            public static final int QQQ9A6 = 3;+
+            public static final int QQQ10A6 = 3;
+
+
+
+
+            ------------------------------QUESTION 2-------------------------------
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion2"
+                android:textSize="18dp"
+                android:textColor="#ffffffff"
+                android:layout_marginTop="50dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ2PA1"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ2PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ2PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ2PA4"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+
+
+
+
+
+
+
+
+
+
+            -------------QUESTION3--------------------
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion3"
+                android:textSize="18dp"
+                android:textColor="#ffffffff"
+                android:layout_marginTop="50dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ3PA1"
+                android:layout_below="@+id/ReviewTextQuestion3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ3PA2"
+                android:layout_below="@+id/RTQ3PA1"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ3PA3"
+                android:layout_below="@+id/RTQ3PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ3PA4"
+                android:layout_below="@+id/RTQ4PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+
+
+
+
+
+
+            --------QUESTION 4------
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion4"
+                android:textSize="18dp"
+                android:textColor="#ffffffff"
+                android:layout_marginTop="50dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ4PA1"
+                android:layout_below="@+id/ReviewTextQuestion4"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ4PA2"
+                android:layout_below="@+id/RTQ4PA1"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ4PA3"
+                android:layout_below="@+id/RTQ4PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ4PA4"
+                android:layout_below="@+id/RTQ4PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+
+            ---------Question5-----------
+
+
+
+
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion5"
+                android:layout_marginTop="50dp"
+                android:textSize="18dp"
+                android:textColor="#ffffffff"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ5PA1"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ5PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ5PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ5PA4"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+
+            -------Question6---------------
+
+
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion6"
+                android:textSize="18dp"
+                android:textColor="#ffffffff"
+                android:layout_marginTop="50dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ6PA1"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ6PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ6PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ6PA4"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+
+
+            -------Question7------
+
+
+
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion7"
+                android:textSize="18sp"
+                android:textColor="#ffffffff"
+                android:layout_marginTop="50dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ7PA1"
+                android:layout_below="@+id/ReviewTextQuestion7"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ7PA2"
+                android:layout_below="@+id/RTQ7PA1"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ7PA3"
+                android:layout_below="@+id/RTQ7PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ7PA4"
+                android:layout_below="@+id/RTQ7PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+
+
+
+
+            -----Question8-------
+
+
+
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion8"
+                android:textSize="18dp"
+                android:textColor="#ffffffff"
+                android:layout_marginTop="50dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ8PA1"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ8PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ8PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ8PA4"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+
+
+
+            ------Question9
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion9"
+                android:textSize="18dp"
+                android:textColor="#ffffffff"
+                android:layout_marginTop="50dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ9PA1"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ9PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ9PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ9PA4"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+
+
+
+
+
+
+            -------Question10-----
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/ReviewTextQuestion10"
+                android:textSize="18dp"
+                android:textColor="#ffffffff"
+                android:layout_marginTop="50dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ10PA1"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ10PA2"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ10PA3"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/RTQ10PA4"
+                android:layout_marginTop="5dp"
+                android:textSize="18dp"
+                android:textColor="#ff000000" />
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/Review_QuizOption"
+        android:layout_marginTop="123dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:textColor="#ffffffff"
+        android:textStyle="italic" />
+
+</RelativeLayout>
